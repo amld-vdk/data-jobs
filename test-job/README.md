@@ -31,3 +31,4 @@ Run the command below and follow its instructions (you can see its options with 
 ```python
 vdk deploy
 ```
+foo
