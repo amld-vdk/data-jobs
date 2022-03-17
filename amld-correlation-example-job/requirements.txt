@@ -1,2 +1,5 @@
 vdk-trino
 pandas
+scipy
+bs4
+datefinder
