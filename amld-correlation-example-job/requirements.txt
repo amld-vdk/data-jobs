@@ -3,3 +3,4 @@ pandas
 scipy
 bs4
 datefinder
+matplotlib
