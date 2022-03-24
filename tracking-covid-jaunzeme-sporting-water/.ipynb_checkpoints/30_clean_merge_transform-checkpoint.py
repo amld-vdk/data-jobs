@@ -166,7 +166,7 @@ def run(job_input: IJobInput):
         job_input.send_tabular_data_for_ingestion(
             rows=df_cases_deaths.values,
             column_names=df_cases_deaths.columns.to_list(),
-            destination_table="!!! ENTER TABLE NAME HERE"
+            destination_table="covid_cases_deaths_europe_daily_jaunzeme_sporting_water"
         )
 
         # Reset the last_date property value to the latest date in the covid source db table
